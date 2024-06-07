@@ -61,7 +61,6 @@ A binary tree is a data structure in which each node has at most two children, r
 3. The project must be compiled with GCC 4.8.4 using the flags -Wall -Werror -Wextra and -pedantic.
 4. Only the following standard library functions are allowed: `malloc`, `free`, and `perror`.
 5. The code must be thoroughly tested with unit tests using the check framework.
-6. The project must be hosted on a version control system such as GitHub.
 
 ## Learning Objectives
 
