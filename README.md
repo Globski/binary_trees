@@ -1,4 +1,4 @@
-# c - Binary Trees
+# C - Binary Trees
 
 ## Description
 The Binary Trees Project is a collection of functions and algorithms for working with binary trees, including binary search trees (BSTs) and binary heaps. This project provides functionality for creating, manipulating, and traversing binary trees efficiently in the C programming language.
